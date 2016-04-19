@@ -1,4 +1,4 @@
-fffffffffff
+8888888888888888888888888888888888888888888888888888
 Delta compression using up to 4 threads.
 Compressing objects: 100% (3/3), done.
 Writing objects: 100% (3/3), 281 bytes | 0 bytes/s, done.
