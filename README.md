@@ -11,7 +11,7 @@ $ git branch
  ! [remote rejected] master (refusing to delete the current branch: refs/heads/master)
 error: failed to push some refs to 'https://github.com/move132/README.git'
 
-
+xxx
 
 ===================================
   大标题一般显示工程名,类似html的\<h1\><br />
