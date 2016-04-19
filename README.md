@@ -1,16 +1,4 @@
-8888888888888888888888888888888888888888888888888888
-Delta compression using up to 4 threads.
-Compressing objects: 100% (3/3), done.
-Writing objects: 100% (3/3), 281 bytes | 0 bytes/s, done.
-Total 3 (delta 2), reused 0 (delta 0)
-To https://github.com/move132/README.g  x
-#Switched to a new branch 'movejs'
-
-wanmin@DESKTOP-20IFME2 MINGW64 ~/Desktop/test (movejs)
-###$ git branch
-
-###wanmin@DESKTOP-20IFME2 MINGW64 ~/Desktop/test (movejs)
-$ git branch
+##太让我失望了，哼！！
 
 ##To https://github.com/move132/README.git
  ! [remote rejected] master (refusing to delete the current branch: refs/heads/master)
