@@ -19,6 +19,9 @@ git checkout -b 分支名称  --创建并切换到分支
 git merge   分支名称   --合并到当前分支
 
 git reset --merge  --撤回合并分支
+
+//merge解决冲突后 
+git log --graph命令可以看到分支合并图。
 ```
 
  
