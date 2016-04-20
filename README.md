@@ -1,7 +1,15 @@
 
 ```
+git init 
+
+git remote add origin https://github.com/username/object.git
+
+git add .  or  git add filename
+
 git commit -am '注释' --提交
+
 git branch  --查看分支
+
 git checkout --file --撤回
 
 git checkout XXX 切换分支
